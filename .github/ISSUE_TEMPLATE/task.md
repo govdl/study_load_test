@@ -1,3 +1,11 @@
+---
+name: Task
+about: 학습 및 개발 작업을 등록합니다.
+title: "[TASK] "
+labels: task
+assignees: ""
+---
+
 ## 작업 목적
 
 <!-- 이번 작업을 진행하는 이유와 목표를 작성합니다. -->
